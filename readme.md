@@ -3,7 +3,7 @@
 
 ## What is BUNT ?
 
-BUNT is a testbed for NLP engines, typically used uin chatbots.
+BUNT is a testbed for NLP engines, typically used in chatbots.
 
 Find out more about the story behind BUNT here : [https://medium.com/@zelros](https://medium.com/@zelros)
 
