@@ -1,0 +1,66 @@
+sentence	intent
+Quelle heure est il ?	get_time
+Il est quelle heure ?	get_time
+Je veux connaitre l'heure	get_time
+J'aimerais que tu me donnes l'heure	get_time
+Donne moi l'heure	get_time
+heure actuelle ?	get_time
+J'aimerais savoir quelle heure il est	get_time
+Pourrais tu me donner l'heure	get_time
+Il est quelle huere ?	get_time
+Donne moi lheure	get_time
+jveux savoir l'heure	get_time
+J'aimerais que tu me done l'heure	get_time
+Donne moi le heure	get_time
+heureactuelle ?	get_time
+J'aimerzez que tu mdonnes l'heure	get_time
+Pourrais tu me donner l'eure	get_time
+Que heure estil ?	get_time
+c koi l'heure ?	get_time
+jveux lheure	get_time
+l'heure stp	get_time
+l'heure de mtn	get_time
+Quel est ton nom	get_name
+Quel est ton prénom	get_name
+ton nom	get_name
+Quel est ton petit nom ?	get_name
+comment pourrais-je t'appeler	get_name
+As-tu un nom ?	get_name
+Dis moi ton nom	get_name
+Qui es tu ?	get_name
+Quel est ton non	get_name
+c quoi ton nom ?	get_name
+ton noms	get_name
+ton prenon	get_name
+comment jpeux t'appeler	get_name
+t'as un nom ?	get_name
+dis moi ton mon	get_name
+c'est joi ton nom ?	get_name
+Il mfaut ton nom	get_name
+comment je peux t'app ?	get_name
+T'as un ptit nom ?	get_name
+Dsi moi ton nom	get_name
+Ton age ?	get_age
+Donne moi ton age ?	get_age
+J'aimerais savoir quel est ton age	get_age
+Me dirais tu ton age	get_age
+T'as quel age	get_age
+t'as quelage ?	get_age
+jvoulais savoir ton âge	get_age
+ton agef ?	get_age
+Donne moi to nage 	get_age
+Je voudris savoir ton age	get_age
+Tu me dirais lage que t'as	get_age
+jveux connaitre ton age	get_age
+Bonjour 	hello
+Salut comment vas-tu ?	hello
+hey	hello
+coucou	hello
+hello	hello
+coucou toi	hello
+comment ça va ?	hello
+Bjour	hello
+Slut	hello
+coment cava	hello
+Bonjor	hello
+Salut comment cava	hello

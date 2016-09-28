@@ -1,0 +1,45 @@
+sentence	intent
+Bonjour	hello
+Bonjour comment ça va ?	hello
+Salut	hello
+hey	hello
+hello	hello
+hello toi	hello
+quoi de neuf ?	hello
+Comment tu vas ?	hello
+Au revoir	bye
+bye	bye
+bye-bye	bye
+merci à plus tard	bye
+A plus	bye
+A plus tard	bye
+ciao	bye
+Je dois y aller	bye
+Deconnection	bye
+quitter	bye
+Laisse moi seul	bye
+Comment tu t'appelles ?	get_name
+Quel est ton prénom	get_name
+Quel est ton nom	get_name
+ton nom	get_name
+Comment veux tu que je t'appelle	get_name
+Tu as un nom ?	get_name
+Dis moi ton nom	get_name
+Qui es tu	get_name
+donne moi ton petit nom	get_name
+Quel age as-tu ?	get_age
+Quel est ton age ?	get_age
+Tu est vieux ?	get_age
+Je veux connaitre ton age	get_age
+Ton age	get_age
+Donne moi ton age	get_age
+J'aimerais savoir ton age	get_age
+Me dirais tu ton age ?	get_age
+Quelle heure est-il ?	get_time
+Il est quelle heure ?	get_time
+Je veux connaitre l'heure	get_time
+J'aimerais que tu me donnes l'heure s'il te plait	get_time
+Dis moi l'heure	get_time
+heure actuelle	get_time
+j'aimerais connaitre l'heure merci	get_time
+Me dirais tu l'heure ?	get_time

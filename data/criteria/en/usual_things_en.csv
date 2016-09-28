@@ -1,0 +1,27 @@
+sentence	intent
+weather	weather
+what is the temperature ?	weather
+what is the weather	weather
+how is the weather	weather
+I want the weather	weather
+Will it rain ?	weather
+Should I take an umbrella ?	weather
+I need to know the weather	weather
+what are the new today ?	news
+Could you give me some news ?	news
+Can you fetch me the news ?	news
+I want to read the news	news
+Get me the news	news
+News	news
+Show me the news please	news
+Hello	hello
+Hi	hello
+Hello there	hello
+What's up ?	hello
+How are you ?	hello
+bye	bye
+bye bye	bye
+see you	bye
+see you soon	bye
+leave me alone	bye
+thanks bye	bye

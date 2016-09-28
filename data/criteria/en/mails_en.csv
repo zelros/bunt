@@ -1,0 +1,15 @@
+sentence	intent
+any new mail ?	check_new_mails
+Did i get any mails ?	check_new_mails
+check my mails please	check_new_mails
+Could you check if i have any new mail	check_new_mails
+i need to send a mail	send_new_mail
+send a new mail	send_new_mail
+sending mail	send_new_mail
+I have to send a mail	send_new_mail
+new mail	send_new_mail
+forward this mail	forward_mail
+forward	forward_mail
+will you forward this mail ?	forward_mail
+I'd like this mail to be forwarded	forward_mail
+please forward it	forward_mail

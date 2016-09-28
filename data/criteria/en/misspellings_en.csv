@@ -1,0 +1,90 @@
+sentence	intent
+What time is it	get_time
+What's the time	get_time
+I want to know the time	get_time
+I would like you to give me the time please	get_time
+give me the time	get_time
+what is the curent time	get_time
+I would like to know what is the time	get_time
+Could you give me the time	get_time
+What timeis it	get_time
+What's the times	get_time
+I want to now the time	get_time
+I d like you to giv me the time please	get_time
+give my the time	get_time
+what is the current time	get_time
+I would ike to know what is the time	get_time
+Coud you give me the time	get_time
+What time isit	get_time
+Whats the time	get_time
+I wana know the time	get_time
+I'd like u to give me the time pls	get_time
+whats the curent time	get_time
+I'd like to know whats the time	get_time
+cld you give me the time	get_time
+What is your name	get_name
+what is your first name	get_name
+your name	get_name
+what is your last name	get_name
+how can i call you ?	get_name
+do you have a name ?	get_name
+tell me your name 	get_name
+who are you ?	get_name
+Whats your name	get_name
+what is your firstname	get_name
+your names	get_name
+what is your las name	get_name
+how can i call u ?	get_name
+do you hav a name ?	get_name
+tell me your mame 	get_name
+Whats your name	get_name
+whats ur 1st name	get_name
+whats ur last name	get_name
+how can i call u ?	get_name
+do u hav a name ?	get_name
+tell me ur name 	get_name
+your age	get_age
+give me your age	get_age
+i would like to know what is your age	get_age
+would you tell me your age ?	get_age
+How oldare you	get_age
+What is your ag	get_age
+i want to now your age	get_age
+you rage	get_age
+gave me your age	get_age
+i would like to know what is you age	get_age
+would you tel me your age ?	get_age
+i wana  know your age	get_age
+giv me your age	get_age
+would you tell me ur age ?	get_age
+Good morning	hello
+hello how are you ?	hello
+hi good evening	hello
+hi	hello
+hello	hello
+hello there	hello
+what's up	hello
+How it is going	hello
+Good mornin	hello
+hi goodevening	hello
+whats up	hello
+Good mornin	hello
+hello how r u ?	hello
+whatsup	hello
+How its goin	hello
+goodbye	bye
+good bye	bye
+bye	bye
+bye-bye	bye
+cheers	bye
+see you	bye
+see you soon	bye
+ciao	bye
+goodby	bye
+god bye	bye
+by	bye
+see you son	bye
+tciao	bye
+see u	bye
+see u soon	bye
+xiao	bye

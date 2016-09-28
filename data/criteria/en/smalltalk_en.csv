@@ -1,0 +1,47 @@
+sentence	intent
+Good morning	hello
+hello how are you ?	hello
+hi good evening	hello
+hi	hello
+hello	hello
+hello there	hello
+what's up	hello
+How it is going	hello
+can you help me 	hello
+goodbye	bye
+good bye	bye
+bye	bye
+bye-bye	bye
+cheers	bye
+see you	bye
+see you soon	bye
+ciao	bye
+i have to leave	bye
+disconect	bye
+quit	bye
+leave me alone	bye
+What is your name	get_name
+what is your first name	get_name
+your name	get_name
+what is your last name	get_name
+how can i call you ?	get_name
+do you have a name ?	get_name
+tell me your name 	get_name
+who are you ?	get_name
+give me your nickname	get_name
+How old are you	get_age
+What is your age	get_age
+are you old	get_age
+i want to know your age	get_age
+your age	get_age
+give me your age	get_age
+i would like to know what is your age	get_age
+would you tell me your age ?	get_age
+What time is it	get_time
+What's the time	get_time
+I want to know the time	get_time
+I would like you to give me the time please	get_time
+give me the time	get_time
+what is the curent time	get_time
+I would like to know what is the time	get_time
+Could you give me the time	get_time

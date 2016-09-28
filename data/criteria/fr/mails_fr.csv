@@ -1,0 +1,16 @@
+sentence	intent
+Y a-t-il des nouveaux mails ?	check_new_mails
+Pas de nouveaux mails ?	check_new_mails
+verifie mes mails stp	check_new_mails
+Pourrais tu regarder si j'ai des nouveaux mails ?	check_new_mails
+Je dois envoyer un mail	send_new_mail
+Envoie un nouveau mail	send_new_mail
+envoie mail	send_new_mail
+je dois envoyer un message	send_new_mail
+ecris un message stp	send_new_mail
+ecris un nouveau mail	send_new_mail
+Transfère ce mail	forward_mail
+Transferer	forward_mail
+Peux tu transferer ce mail  ?	forward_mail
+J'aimerais que ce mail soit transféré 	forward_mail
+Transfere stp	forward_mail
