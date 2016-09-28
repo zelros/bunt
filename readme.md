@@ -3,14 +3,12 @@
 
 ## What is BUNT ?
 
-BUNT is a NLP service testbed framework.
+BUNT is a testbed for NLP engines.
 
-- supported languages
-- misspellings
-- etc.
+Find out more about the story behind BUNT here : [https://medium.com/@zelros](https://medium.com/@zelros)
 
 
-## What BUNT can evaluate ?
+## What BUNT can do for you ?
 
 BUNT can evaluate performance on:
 
@@ -19,7 +17,7 @@ BUNT can evaluate performance on:
 - **apis**: 3 NLP-as-a-service providers are supported: api.ai, luis.ai, and recast.ai. Other providers can be added through plugins
 
 
-## How does BUNT works ?
+## How does BUNT work ?
 
 - Put your credentials in ```credentials.py```:
 
@@ -45,7 +43,7 @@ python run.py
 ```
 
 
-## How can I add my own API ?
+## How can I add my own NLP service ?
 
 - Create a class Manager inheriting ApiManager from ```api.py```. (See ```api.py``` for more details):
 
