@@ -5,7 +5,7 @@
 
 BUNT is a testbed for NLP engines, typically used in chatbots.
 
-Find out more about the story behind BUNT here : [https://medium.com/@zelros](https://medium.com/@zelros)
+Find out more about the story behind BUNT [on this blog post](https://medium.com/@Zelros/open-sourcing-bunt-a-bot-understanding-testbed-75ee060a10d6#.t372ihurw)
 
 
 ## What BUNT can do for you ?
