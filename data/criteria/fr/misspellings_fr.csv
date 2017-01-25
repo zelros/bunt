@@ -21,7 +21,7 @@ jveux lheure	get_time
 l'heure stp	get_time
 l'heure de mtn	get_time
 Quel est ton nom	get_name
-Quel est ton prénom	get_name
+Quel est ton prenom	get_name
 ton nom	get_name
 Quel est ton petit nom ?	get_name
 comment pourrais-je t'appeler	get_name
@@ -46,7 +46,7 @@ J'aimerais savoir quel est ton age	get_age
 Me dirais tu ton age	get_age
 T'as quel age	get_age
 t'as quelage ?	get_age
-jvoulais savoir ton âge	get_age
+jvoulais savoir ton age	get_age
 ton agef ?	get_age
 Donne moi to nage 	get_age
 Je voudris savoir ton age	get_age
@@ -58,7 +58,7 @@ hey	hello
 coucou	hello
 hello	hello
 coucou toi	hello
-comment ça va ?	hello
+comment ca va ?	hello
 Bjour	hello
 Slut	hello
 coment cava	hello

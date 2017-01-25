@@ -9,8 +9,8 @@ envoie mail	send_new_mail
 je dois envoyer un message	send_new_mail
 ecris un message stp	send_new_mail
 ecris un nouveau mail	send_new_mail
-Transfère ce mail	forward_mail
+Transfere ce mail	forward_mail
 Transferer	forward_mail
 Peux tu transferer ce mail  ?	forward_mail
-J'aimerais que ce mail soit transféré 	forward_mail
+J'aimerais que ce mail soit transfere 	forward_mail
 Transfere stp	forward_mail

@@ -1,12 +1,12 @@
 sentence	intent
-météo	weather
-Quelle est la température	weather
-Quelle est la météo	weather
+meteo	weather
+Quelle est la temperature	weather
+Quelle est la meteo	weather
 Il fait quel temps ?	weather
 J'aimerais savoir le temps qu'il fait	weather
 Va-t-il pleuvoir ?	weather
 Devrais-je prendre un parapluie	weather
-J'aurais besoin de connaitre la météo	weather
+J'aurais besoin de connaitre la meteo	weather
 Quelles sont les nouvelles aujourd'hui	news
 Pourrais tu me donner les news	news
 Quelles sont les news ?	news
@@ -17,14 +17,14 @@ Montre moi les news s'il te plait	news
 salut	hello
 hey	hello
 coucou 	hello
-Comment ça va ?	hello
+Comment ca va ?	hello
 Comment vas-tu ?	hello
 bye	bye
 bye bye	bye
-à plus	bye
+a plus	bye
 on se reparle plus tard	bye
 laisse moi seul maintenant	bye
 merci au revoir	bye
 au revoir	bye
 ciao	bye
-à bientôt	bye
+a bientot	bye

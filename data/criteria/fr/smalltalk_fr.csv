@@ -1,6 +1,6 @@
 sentence	intent
 Bonjour	hello
-Bonjour comment ça va ?	hello
+Bonjour comment ca va ?	hello
 Salut	hello
 hey	hello
 hello	hello
@@ -10,7 +10,7 @@ Comment tu vas ?	hello
 Au revoir	bye
 bye	bye
 bye-bye	bye
-merci à plus tard	bye
+merci a plus tard	bye
 A plus	bye
 A plus tard	bye
 ciao	bye
@@ -19,7 +19,7 @@ Deconnection	bye
 quitter	bye
 Laisse moi seul	bye
 Comment tu t'appelles ?	get_name
-Quel est ton prénom	get_name
+Quel est ton prenom	get_name
 Quel est ton nom	get_name
 ton nom	get_name
 Comment veux tu que je t'appelle	get_name
