@@ -3,7 +3,12 @@
 #  https://man.recast.ai/
 from api import ApiManager
 
+import logging
 import requests
+
+
+logger = logging.getLogger(__name__)
+
 
 
 class RecastManager(ApiManager):
@@ -56,7 +61,7 @@ class RecastManager(ApiManager):
         return response
 
     def _create_intent(self, name, expressions, language, description='', n_try=0):
-
+        logger.debug(u'Create intent {0} for lang {1}'.format(name, language))
         array = []
         for expression in expressions:
             array.append(
@@ -90,7 +95,7 @@ class RecastManager(ApiManager):
             self._delete_intent_by_slug(slug)
 
     def _delete_intent_by_slug(self, intent_slug):
-
+        logger.debug(u'Delete intent {0}'.format(intent_slug))
         response = requests.delete(
             url='{}/intents/{}'.format(self._url, intent_slug),
             headers=self._headers
@@ -98,7 +103,7 @@ class RecastManager(ApiManager):
         return response.json()
 
     def _get_intents_slug(self):
-
+        logger.debug(u'Get all intents')
         response = requests.get(
             url='{}/intents'.format(self._url),
             # url = 'https://api.recast.ai/v1/users/pytha/bots/test/intents',
@@ -114,7 +119,7 @@ class RecastManager(ApiManager):
         return intent_slugs
 
     def _predict_one(self, sentence):
-
+        logger.debug(u'Predict sentence {0}'.format(sentence))
         response = requests.post(
             url='{}/request'.format(self._base_url),
             data={
