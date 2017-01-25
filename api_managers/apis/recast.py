@@ -9,7 +9,7 @@ import requests
 class RecastManager(ApiManager):
     def __init__(self, user_slug, bot_slug, token, language, fallback_name, strictness=50):
         ApiManager.__init__(self, fallback_name)
-        self._base_url = 'https://api.recast.ai/v1'
+        self._base_url = 'https://api.recast.ai/v2'
         self._user_slug = user_slug
         self._bot_slug = bot_slug
         self.strictness = strictness
@@ -126,5 +126,5 @@ class RecastManager(ApiManager):
         response = response.json()
 
         if len(response['results']['intents']) > 0:
-            return response['results']['intents'][0]
+            return response['results']['intents'][0]['slug']
         return self._fallback_name
